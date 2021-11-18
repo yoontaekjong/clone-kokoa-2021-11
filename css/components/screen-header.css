@@ -15,3 +15,17 @@
 .screen-header__icons span {
   margin-left: 30px;
 }
+
+.screen-header__cog-dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  left: 75px;
+  bottom: 25px;
+  color: tomato;
+}
